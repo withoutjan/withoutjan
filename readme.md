@@ -1,7 +1,7 @@
 # Heyuu 👋
-Welcome to My Profile
+## Welcome to My Profile
 
-## I'm Jan, 27 Years old.
+I'm Jan, 27 Years old.
 
 
 
